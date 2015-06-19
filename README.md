@@ -1,6 +1,10 @@
 # node-rakuten
 Rakuten Affiliate Network Reports
 
+* Installation
+	npm install dbk-rakuten
+	
+* Usage
 
 	var $raku_config = {
 		// used to get a new Refresh Token
