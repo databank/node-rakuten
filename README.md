@@ -21,7 +21,7 @@ Rakuten Affiliate Network Reports
 		
 		SecurityToken: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
 	}
-	var RakutenAffiliate = require('./lib/rakuten').Affiliate($rak_config)
+	var RakutenAffiliate = require('./lib/rakuten').Affiliate($raku_config)
 
 
 	RakutenAffiliate.requestAccessToken(function(err,token) {
