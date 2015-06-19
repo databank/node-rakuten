@@ -1,0 +1,30 @@
+{
+	"author": { 
+		"name": "Adrian Praja",
+		"email": "adrian@databank.ro"
+	},	
+	"name": "dbk-rakuten",
+	"description": "Rakuten (Linkshare) Affiliate Network Reports",
+	"keywords": [
+		"rakuten",
+		"linkshare"
+	],
+	"version": "0.0.1",
+	"homepage": "http://databank.github.com/node-rakuten",
+	"bugs": "https://github.com/databank/node-rakuten/issues",
+	"repository": {
+		"type" :  "git",
+		"url": "https://github.com/databank/node-rakuten"
+	},
+	"main": "./lib/rakuten",
+	"dependencies": {
+		"request": "*",
+		"csv": "*"
+	},
+	"scripts": {
+		"test": "mocha --timeout 100000 -R spec"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
