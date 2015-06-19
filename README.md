@@ -1,4 +1,8 @@
+[![npm page](https://nodei.co/npm/dbk-rakuten.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dbk-rakuten)
+
+
 # node-rakuten
+
 Rakuten Affiliate Network Reports
 
 * Installation
