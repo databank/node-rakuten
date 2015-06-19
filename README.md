@@ -5,11 +5,13 @@
 
 Rakuten Affiliate Network Reports
 
-* Installation
+##Installation
+```
 	npm install dbk-rakuten
-	
-* Usage
+```
+##Usage
 
+```
 	var $raku_config = {
 		// used to get a new Refresh Token
 		username: 'uuuuuuuuu',
@@ -33,3 +35,4 @@ Rakuten Affiliate Network Reports
 			console.log(err,data)
 		})
 	})
+```
