@@ -9,7 +9,7 @@
 		"rakuten",
 		"linkshare"
 	],
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "http://databank.github.com/node-rakuten",
 	"bugs": "https://github.com/databank/node-rakuten/issues",
 	"repository": {
